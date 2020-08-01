@@ -1,0 +1,13 @@
+- A tree is a non-linear hierarchical data structure that consits of nodes connected by edges.
+# Why Trees?
+- Other data structures such as arrays, linked lists, stacks and queues store data sequentially  since they are linear data structures.
+- Performing operations in linear data structure leads to increased time complexity with increased input size. This is not a proper computational approach.
+- Non-linear data structures allow operations on data from different points since they are non-linear. This quick access to data at points/nodes make them efficient
+  data structures for large data structures
+
+# Topics
+    - Tree traversals: Inorder, preorder and postorder traversals.
+    - Type of Trees: 
+      -Binary Trees: - Full Binary Tree, Perfect Binary Tree, Complete Binary Tree, Degenerate/Pathological Binary Tree,
+       Skewed Binary Tree, Balanced Binary Tree.
+      -B-Tree: Insertion, Deletion
